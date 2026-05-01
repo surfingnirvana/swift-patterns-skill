@@ -47,7 +47,7 @@
       "skills": [
         "./swift-patterns"
       ],
-      "strict": false
+      "strict": true
     }
   ]
 }
